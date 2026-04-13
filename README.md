@@ -4,7 +4,7 @@ readme_v2_content = """# 📱 QuickQR Generator
 A modern, high-performance QR Code generation utility built with a sleek UI and instant feedback. 
 
 ## 🚀 Live Demo
-*(Once hosted, insert your link here: e.g., https://tushar-mondal.github.io/qr-generator)*
+*(Once hosted, insert your link here: e.g., [https://tushar-mondal.github.io/qr-generator](https://github.com/OcTUSHAR/QR-Code-Generator.git))*
 
 ## ✨ Key Features
 - **Real-Time UI:** Modern glassmorphism design with a premium purple gradient background.
